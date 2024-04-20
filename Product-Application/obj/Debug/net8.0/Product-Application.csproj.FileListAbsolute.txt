@@ -28,3 +28,5 @@ C:\Users\ASUS\source\repos\Product-Application\Product-Application\obj\Debug\net
 C:\Users\ASUS\source\repos\Product-Application\Product-Application\obj\Debug\net8.0\Product-Application.pdb
 C:\Users\ASUS\source\repos\Product-Application\Product-Application\obj\Debug\net8.0\Product-Application.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\Product-Application\Product-Application\obj\Debug\net8.0\ref\Product-Application.dll
+C:\Users\ASUS\source\repos\Product-Application\Product-Application\obj\Debug\net8.0\Product-Application.sourcelink.json
+C:\Users\ASUS\source\repos\Product-Application\Product-Application\bin\Debug\net8.0\products.json

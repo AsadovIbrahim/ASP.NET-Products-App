@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\views\\product\\getallproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\views\\product\\getallproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|c:\\users\\asus\\source\\repos\\product-application\\product-application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C03D99D-50C3-4306-B87E-42E4E52BF3DE}|Product-Application\\Product-Application.csproj|solutionrelative:product-application\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,46 +34,33 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "Product-Application\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "Product-Application\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Product-Application\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Product-Application\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T22:22:41.043Z",
+              "WhenOpened": "2024-04-20T08:16:34.898Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Product-Application\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Product-Application\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAADgvxMAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:17:52.857Z",
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Product-Application\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Product-Application\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-20T08:16:32.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GetAllProducts.cshtml",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Product\\GetAllProducts.cshtml",
-              "RelativeDocumentMoniker": "Product-Application\\Views\\Product\\GetAllProducts.cshtml",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Product\\GetAllProducts.cshtml",
-              "RelativeToolTip": "Product-Application\\Views\\Product\\GetAllProducts.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T22:16:01.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Product-Application\\Views\\Home\\Index.cshtml",
@@ -81,20 +68,33 @@
               "RelativeToolTip": "Product-Application\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-19T22:15:45.466Z",
+              "WhenOpened": "2024-04-20T08:08:05.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Product-Application\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Models\\Product.cs",
+              "RelativeToolTip": "Product-Application\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T08:05:37.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Product-Application\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Product-Application\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product-Application\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Product-Application\\Product-Application\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product-Application\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwB8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T22:15:36.744Z",
+              "WhenOpened": "2024-04-19T22:17:52.857Z",
               "EditorCaption": ""
             }
           ]

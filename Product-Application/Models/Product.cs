@@ -2,19 +2,16 @@
 {
     public class Product
     {
+        private static int _Id;
         public int Id { get; set; }
         public string ?Name { get; set; }
         public double Price { get; set; }
         public string? Description { get; set; }
 
-        //public Product()
-        //{
-        //    Id = ++_Id;
-        //}
-        public Product(int id,string name,double price,string description)
+        
+        public Product(string name,double price,string description)
         {
-            //Id= ++_Id;
-            Id= id;
+            Id = ++_Id;
             Name = name;
             Price = price;
             Description = description;
